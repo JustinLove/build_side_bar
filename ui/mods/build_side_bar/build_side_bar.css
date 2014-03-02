@@ -1,0 +1,24 @@
+.div_bottom_bar {
+  width: 288px;
+  bottom: 64px
+}
+
+.div_build_bar {
+  max-width: 300px;
+}
+
+.div_build_bar_midspan {
+  max-width: 300px;
+}
+
+.div_unit_selection_cont {
+  max-width: 100%;
+}
+
+.div_build_bar_tab_cont {
+  width: 395px;
+}
+
+.div_build_bar_hover_cont {
+  width: 280px;
+}

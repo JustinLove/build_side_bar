@@ -1,0 +1,22 @@
+{
+  "author": "wondible",
+  "build": "62110",
+  "category": ["in-game", "ui"],
+  "context": "client",
+  "date": "2014/03/01",
+  "description": "Move the new supersize build bar to the left side.",
+  "display_name": "Build Side Bar",
+  "enabled": true,
+  "forum": null,
+  "id": "build_side_bar",
+  "identifier": "com.wondible.pa.build_side_bar",
+  "live_game": [
+    "coui://ui/mods/build_side_bar/build_side_bar.css",
+    "coui://ui/mods/build_side_bar/build_side_bar.js"
+  ],
+  "priority": 100,
+  "requires": [],
+  "signature": "not yet implemented",
+  "version": "0.0.0"
+}
+
